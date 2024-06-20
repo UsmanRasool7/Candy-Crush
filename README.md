@@ -16,7 +16,7 @@ This project is a simplified version of the popular Candy Crush game, implemente
    - Press the **Enter key** to select a gem.
    - Use the **arrow keys** to swap the selected gem with the gem in the desired location.
 
-3.  **Special Gems**
+3. **Special Gems**
    - A **destroyer gem** is obtained by combining 5 gems at the elbow.
    - Another special gem is created by matching **4 consecutive gems** in a row or column.
 
