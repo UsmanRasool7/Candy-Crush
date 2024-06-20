@@ -2,9 +2,25 @@
 Candy Crush Game in C++
 ----1st Semester Project----
 
-Instructions for playing game:
-1:use the arrow keys to move the cursor.
-2:press enter key to select the gem and then use cursor keys to swap the selected gem with the desired location.
-3:match 3 0r 4 consecutive same types of gems.
-4:special gems can be acquired by matching 4 consecutive same types of gems or by matching same types of gems in an L shape.
-5:Get the most points you can get in 60 seconds. 
+# Candy Crush Game in C++ - 1st Semester Project
+
+## Overview
+This project is a simplified version of the popular Candy Crush game, implemented in C++ as a first-semester project. The objective is to match gems of the same type to score points within a 60-second time limit.
+
+## Gameplay Instructions
+
+1. **Move the Cursor**
+   - Use the **arrow keys** to navigate the cursor across the board.
+
+2. **Select and Swap Gems**
+   - Press the **Enter key** to select a gem.
+   - Use the **arrow keys** to swap the selected gem with the gem in the desired location.
+
+3. **Match Gems**
+   - Match **3 or 4 consecutive gems** of the same type to score points.
+   - Special gems can be acquired by matching 4 consecutive gems or by matching gems in an L shape.
+
+4. **Score Points**
+   - Get the most points possible within the **60-second time limit**.
+
+
