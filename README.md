@@ -1,6 +1,6 @@
 # Candy-Crush-C++
 Candy Crush Game in C++
----1st Semester Project---
+----1st Semester Project----
 
 Instructions for playing game:
 1:use the arrow keys to move the cursor.
