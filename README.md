@@ -1,4 +1,4 @@
-# Candy-Crush-C++-
+# Candy-Crush-C++
 Candy Crush Game in C++
 ---1st Semester Project---
 
